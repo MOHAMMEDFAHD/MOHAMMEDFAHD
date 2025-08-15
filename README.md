@@ -1,3 +1,10 @@
+
+
+![Programming Ocean Academy](https://programmingoceanacademy.s3.ap-southeast-1.amazonaws.com/images/programming-ocean-academy-logo.png)
+
+
+
+
 ### 👋 Hello, I'm Mohammed Fahd Abrah– AI Engineer & Data Scientist
 
 I'm an **AI Engineer & Data Scientist** driven by the pursuit of building intelligent systems that solve real-world problems.  
