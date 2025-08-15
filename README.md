@@ -1,6 +1,6 @@
 
 
-![Programming Ocean Academy](https://programmingoceanacademy.s3.ap-southeast-1.amazonaws.com/images/programming-ocean-academy-logo.png)
+<img src="https://programmingoceanacademy.s3.ap-southeast-1.amazonaws.com/images/programming-ocean-academy-logo.png" style="margin: auto;">
 
 
 
