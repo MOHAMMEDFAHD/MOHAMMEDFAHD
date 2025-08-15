@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Mohammed Fahd Abrah– AI Engineer & Data Enthusiast
+### 👋 Hello, I'm Mohammed Fahd Abrah– AI Engineer & Data Scientist
 
 I'm an **AI Engineer & Data Scientist** driven by the pursuit of building intelligent systems that solve real-world problems.  
 With a strong foundation in **Data Science, Machine Learning, Deep Learning, Transformers, and Generative AI**, I strive to push the boundaries of what's possible with data and models.
