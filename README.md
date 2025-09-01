@@ -47,13 +47,5 @@ With a strong foundation in **Data Science, Machine Learning, Deep Learning, Tra
 
 ---
 
-### 🌐 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/mohammed-al-abrah/)
-- [Twitter / X](https://x.com/programmingocea)
-- [Website](https://programming-ocean.com/):
-- [Email](info@programming-ocean.com)
-
----
-
 ⭐️ Thank you for stopping by! Feel free to explore my repositories, leave a ⭐, or open a PR. Let’s build the future with AI!
 
